@@ -13,11 +13,11 @@ body {
     overflow-x: hidden;
   }
   ::selection {
-    color: #211830;
+    color: #313244;
     background-color: #515e99;
   }
   ::-moz-selection {
-    color: #211830;
+    color: #313244;
     background-color: #515e99;
   }
   textarea {
@@ -127,7 +127,7 @@ body {
   }
   a:hover {
     background: #6a74ff;
-    color: #211830;
+    color: #313244;
   }
   a:focus {
     outline: 0;
